@@ -11,7 +11,7 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GKRBROS&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=GKRBROS)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GKRBROS&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GKRBROS&layout=compact&theme=radical)
 
 </div>
