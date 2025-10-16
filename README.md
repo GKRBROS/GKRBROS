@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-one-beta-67.vercel.app/">Portfolio</a> • 
-  <a href="mailto:<YOUR-EMAIL>">Email</a> • 
+  <a href="mailto:<gokul.kiran03@gmail.com>">Email</a> • 
   <a href="https://github.com/GKRBROS">GitHub</a>
 </p>
 
@@ -17,20 +17,31 @@
 </div>
 
 ## 🛠️ About Me
-- 🎮 Passionate developer & livery designer from India
-- 🚀 Working on: AI, Python, design automation, and more
-- 📚 Always learning and open to collaborations
+- Aspiring AI & Machine Learning Engineer with strong Python and MATLAB skills
+
+- Experienced in developing AIML models and real-time data analysis solutions
+
+- Proven ability to optimize ML models, improving system efficiency by 50% in internship projects
+
+- Team player with hands-on experience collaborating in fast-paced tech environments
+
+- Passionate about learning new technologies and driving innovation through data-driven insights
+
+- Skilled in web development, data analytics, and automation tools
+
+- Active contributor to open-source projects and enthusiastic about continuous growth
 
 ## 🔥 Pinned Projects
 <!-- GH allows pinning up to 6 repos (auto-updates from pins) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=TCL_PYTHON_PROJECT)](https://github.com/GKRBROS/TCL_PYTHON_PROJECT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=Voice_Emotion_Recognition)](https://github.com/GKRBROS/Voice_Emotion_Recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)](https://github.com/GKRBROS/STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=VOICE-BOT-APP)](https://github.com/GKRBROS/voice-bot-app.git)
 
 ## 📊 Weekly Development Breakdown
-<!-- WakaTime badge: see https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
+Stay tuned for my weekly updates on coding activity, project progress, and skill-building! Each week, I track my development time, languages used, and contributions to ensure continuous learning and growth. This section will be updated automatically to showcase how I spend my time enhancing my programming and project skills across different domains.
 <!--END_SECTION:waka-->
+
 
 ---
 
