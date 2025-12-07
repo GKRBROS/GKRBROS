@@ -14,7 +14,7 @@
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GKRBROS&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-two-phi-10.vercel.app/api?username=GKRBROS&show_icons=true&theme=chartreuse-dark" 
     alt="GitHub Stats"
   />
 
@@ -22,7 +22,7 @@
   <br/>
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats-eight.vercel.app?user=GKRBROS&theme=dark" 
+      src="https://github-readme-streak-stats-eight.vercel.app?user=GKRBROS&theme=chartreuse-dark&hide_border=true&ring_color=00ff00" 
       alt="GitHub Streak"
     />
   </a>
@@ -30,7 +30,7 @@
   <!-- Top Languages -->
   <br/>
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GKRBROS&layout=compact&theme=radical" 
+    src="https://github-readme-stats-two-phi-10.vercel.app/api/top-langs/?username=GKRBROS&layout=compact&theme=chartreuse-dark" 
     alt="Top Languages"
   />
 
@@ -52,9 +52,9 @@
 
 ## 🔥 Pinned Projects
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GKRBROS&repo=Voice_Emotion_Recognition)](https://github.com/GKRBROS/Voice_Emotion_Recognition)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GKRBROS&repo=STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)](https://github.com/GKRBROS/STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GKRBROS&repo=VOICE-BOT-APP)](https://github.com/GKRBROS/VOICE-BOT-APP)
+[![Readme Card](https://github-readme-stats-two-phi-10.vercel.app/api/pin/?username=GKRBROS&repo=Voice_Emotion_Recognition&theme=chartreuse-dark&hide_border=true)](https://github.com/GKRBROS/Voice_Emotion_Recognition)
+[![Readme Card](https://github-readme-stats-two-phi-10.vercel.app/api/pin/?username=GKRBROS&repo=STREAMLINING-HOSPITAL-WASTE-MANAGEMENT&theme=chartreuse-dark&hide_border=true)](https://github.com/GKRBROS/STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)
+[![Readme Card](https://github-readme-stats-two-phi-10.vercel.app/api/pin/?username=GKRBROS&repo=VOICE-BOT-APP&theme=chartreuse-dark&hide_border=true)](https://github.com/GKRBROS/VOICE-BOT-APP)
 
 ---
 
