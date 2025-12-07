@@ -4,60 +4,66 @@
 
 <p align="center">
   <a href="https://portfolio-one-beta-67.vercel.app/">Portfolio</a> • 
-  <a href="mailto:<gokul.kiran03@gmail.com>">Email</a> • 
+  <a href="mailto:gokul.kiran03@gmail.com">Email</a> • 
   <a href="https://github.com/GKRBROS">GitHub</a>
 </p>
 
+---
 
 <div align="center">
-<!--
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=GKRBROS&show_icons=true&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GKRBROS&show_icons=true&theme=radical
-))
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=GKRBROS&theme=dark)](https://git.io/streak-stats)
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GKRBROS&layout=compact&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GKRBROS&layout=compact&theme=radical
-))
---->
 
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GKRBROS&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GKRBROS&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GKRBROS&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+
+  <!-- Streak Stats -->
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats-eight.vercel.app?user=GKRBROS&theme=dark" 
+      alt="GitHub Streak"
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <br/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GKRBROS&layout=compact&theme=radical" 
+    alt="Top Languages"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=GKRBROS&show_icons=true" />
-</picture>
 
 </div>
 
+---
+
 ## 🛠️ About Me
-- Aspiring AI & Machine Learning Engineer with strong Python and MATLAB skills
 
-- Experienced in developing AIML models and real-time data analysis solutions
+- Aspiring **AI & Machine Learning Engineer** with strong Python and MATLAB skills  
+- Experienced in developing **AI/ML models** and **real-time data analysis** solutions  
+- Proven ability to **optimize ML models**, improving system efficiency during internship projects  
+- Team player with hands-on experience in **collaborative, fast-paced tech environments**  
+- Passionate about **learning new technologies** and driving innovation through **data-driven insights**  
+- Skilled in **web development**, **data analytics**, and **automation tools**  
+- Active contributor to **open-source projects** and enthusiastic about **continuous growth**  
 
-- Proven ability to optimize ML models, improving system efficiency by 50% in internship projects
-
-- Team player with hands-on experience collaborating in fast-paced tech environments
-
-- Passionate about learning new technologies and driving innovation through data-driven insights
-
-- Skilled in web development, data analytics, and automation tools
-
-- Active contributor to open-source projects and enthusiastic about continuous growth
+---
 
 ## 🔥 Pinned Projects
-<!-- GH allows pinning up to 6 repos (auto-updates from pins) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=Voice_Emotion_Recognition)](https://github.com/GKRBROS/Voice_Emotion_Recognition)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)](https://github.com/GKRBROS/STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GKRBROS&repo=VOICE-BOT-APP)](https://github.com/GKRBROS/voice-bot-app.git)
+
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GKRBROS&repo=Voice_Emotion_Recognition)](https://github.com/GKRBROS/Voice_Emotion_Recognition)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GKRBROS&repo=STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)](https://github.com/GKRBROS/STREAMLINING-HOSPITAL-WASTE-MANAGEMENT)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GKRBROS&repo=VOICE-BOT-APP)](https://github.com/GKRBROS/VOICE-BOT-APP)
+
+---
 
 ## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-Stay tuned for my weekly updates on coding activity, project progress, and skill-building! Each week, I track my development time, languages used, and contributions to ensure continuous learning and growth. This section will be updated automatically to showcase how I spend my time enhancing my programming and project skills across different domains.
-<!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+Stay tuned for my weekly updates on coding activity, project progress, and skill-building!  
+This section will be updated automatically to show how I spend my time across different languages, tools, and projects.
+<!--END_SECTION:waka-->
 
 ---
 
