@@ -6,6 +6,7 @@
   <a href="https://portfolio-one-beta-67.vercel.app/">Portfolio</a> • 
   <a href="mailto:gokul.kiran03@gmail.com">Email</a> • 
   <a href="https://github.com/GKRBROS">GitHub</a>
+  <a href="https://www.linkedin.com/in/gokulkiranr">LinkeIn</a>
 </p>
 
 ---
