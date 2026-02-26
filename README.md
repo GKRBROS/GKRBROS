@@ -10,7 +10,7 @@
 
 <!-- Social Badges with Animations -->
 <p align="center">
-  <a href="https://portfolio-one-beta-67.vercel.app/">
+  <a href="https://www.gokulkiran.dev/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:gokul.kiran03@gmail.com">
